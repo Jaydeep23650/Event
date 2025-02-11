@@ -7,7 +7,7 @@ export default function Navbar() {
             <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/Speakers">Speakers</Link></li>
-                <li><Link to="https://jaydeep23650.github.io/PortFolio/">Contact</Link></li>
+                <li><a href="https://jaydeep23650.github.io/PortFolio/">Contact</a></li>
             </ul>
         </nav>
     );
